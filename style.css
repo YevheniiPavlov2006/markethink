@@ -459,16 +459,16 @@ body{
 
 @media (max-width: 450px){
   .about_us{
-    padding: 80px 30px;
+    padding: 80px 50px;
   }
   .about_us__title{
-    font-size: 30px;
+    font-size: 26px;
   }
   .about_us__subtitle{
-    font-size: 18px;
+    font-size: 16px;
   }
   .about_us__href{
-    font-size: 16px;
+    font-size: 14px;
   }
   .about_us__block__item__title{
     font-size: 25px;
