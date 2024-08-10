@@ -141,7 +141,7 @@ body{
   gap: 25px;
   text-align: center;
   justify-content: center;
-  padding-top: 100px;
+  padding-top: 30px;
 }
 
 .main__under__title{
@@ -314,11 +314,11 @@ body{
 .about_us{
   display: flex;
   justify-content: space-between;
-  padding: 120px 150px;
+  padding: 120px 100px;
 }
 
 .about_us__main{
-  max-width: 488px;
+  max-width: 480px;
   display: flex;
   flex-direction: column;
   gap: 40px;
