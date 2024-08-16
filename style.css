@@ -459,7 +459,7 @@ body{
 
 @media (max-width: 450px){
   .about_us{
-    padding: 80px 50px;
+    padding: 40px 50px;
   }
   .about_us__title{
     font-size: 26px;
@@ -489,7 +489,7 @@ body{
     max-width: 280px;
   }
   .socialmedia{
-    padding: 80px 30px;
+    padding: 50px 30px;
   }
 }
 
@@ -999,7 +999,7 @@ body{
 .footer{
   display: flex;
   justify-content: space-between;
-  padding: 100px;
+  padding: 40px 100px;
   gap: 170px;
 }
 
@@ -1061,7 +1061,7 @@ body{
 
 @media (max-width: 900px){
   .footer{
-    padding: 100px 40px;
+    padding: 40px 40px;
   }
   .footer__main__block img{
     max-width: 150px;
